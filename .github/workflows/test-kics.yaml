@@ -2,7 +2,7 @@ name: scan with KICS docker-runner
 
 on:
   pull_request:
-    branches: [master]
+    branches: [master, main]
 
 jobs:
   kics-job:
