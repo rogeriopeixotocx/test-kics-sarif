@@ -1,0 +1,7 @@
+[
+  {
+    "queryName": "S3 Bucket With Ignore Public ACL",
+    "severity": "LOW",
+    "line": 10
+  }
+]
