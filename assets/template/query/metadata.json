@@ -1,0 +1,9 @@
+{
+  "id": "<ID>",
+  "queryName": "<QUERY_NAME>",
+  "severity": "<SEVERITY>",
+  "category": "<CATEGORY>",
+  "descriptionText": "<TEXT>",
+  "descriptionUrl": "<DESCRIPTION_URL>",
+  "platform": "<PLATFORM>"
+}

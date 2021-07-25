@@ -1,0 +1,17 @@
+[
+  {
+    "queryName": "AMI Not Encrypted",
+    "severity": "HIGH",
+    "line": 7
+  },
+  {
+    "queryName": "AMI Not Encrypted",
+    "severity": "HIGH",
+    "line": 21
+  },
+  {
+    "queryName": "AMI Not Encrypted",
+    "severity": "HIGH",
+    "line": 29
+  }
+]
